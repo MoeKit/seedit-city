@@ -32,7 +32,7 @@ var city = new appCity({
 });
 
 $('.open').click(function(){
-  city.openFun()
+  city.open();
 });
 
 ````
