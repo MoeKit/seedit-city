@@ -12,6 +12,7 @@
 
 ````html
 <div class="open">OPEN</div>
+
 ````
 
 
